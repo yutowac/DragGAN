@@ -21,7 +21,6 @@ import torch
 import legacy
 
 #----------------------------------------------------------------------------
-
 def parse_range(s: Union[str, List]) -> List[int]:
     '''Parse a comma separated list of numbers or ranges and return a list of ints.
 
