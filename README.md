@@ -1,5 +1,4 @@
 <p align="center">
-
   <h1 align="center">Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold</h1>
   <p align="center">
     <a href="https://xingangpan.github.io/"><strong>Xingang Pan</strong></a>
